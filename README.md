@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Matheus 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-henrique-barbosa-33203b154/)
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohenribr&show_icons=true&theme=tokyonight)
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=Macloostudio&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenribr)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
@@ -18,4 +18,4 @@
 Apaixonado por tecnologia, aprimorando os conhecimentos por meio de estudos e desenvolvimento de novas aplicações
 
 ## Contato
-E-mail: joaohb28@gmail.com
+E-mail:
